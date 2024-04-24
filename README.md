@@ -5,3 +5,6 @@ Project ER diagram or EER
 
 <img width="406" alt="image" src="https://github.com/paulBit3/Java-Week9-Assignment--PromineoTech-DB-Development--MySQL-JDBC/assets/43505777/ee9e6998-d1b7-4553-b5e4-119d571199e1">
 
+<img width="478" alt="image" src="https://github.com/paulBit3/Java-Week9-Assignment--PromineoTech-DB-Development--MySQL-JDBC/assets/43505777/6cdd7d37-48fa-4d25-a633-260d9a272d8a">
+
+
